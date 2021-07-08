@@ -36,8 +36,6 @@ int servoPin = 18;
 
 
 
-String messageStatic = "Hi Segsy";
-String messageToScroll = "if you are reading this message your are sus";
 
 
 // Setting PWM properties
